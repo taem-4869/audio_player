@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlayMe</string>
+    <string name="failed_to_load_audio_data">failed to load audio data</string>
+    <string name="unknown_artist">Unknown artist</string>
+    <string name="no_title">No title</string>
+    <string name="couldn_t_play_this_audio">couldn\'t play this audio</string>
+    <string name="cancel">Cancel</string>
+</resources>
